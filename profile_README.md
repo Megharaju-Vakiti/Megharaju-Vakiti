@@ -107,15 +107,13 @@ I'm a results-driven **Data Analyst** with a strong foundation in **Business Int
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Megharaju-Vakiti&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Megharaju-Vakiti&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Megharaju's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megharaju-Vakiti&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megharaju-Vakiti&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Megharaju-Vakiti&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
+  <img src="https://streak-stats.demolab.com/?user=Megharaju-Vakiti&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 ---
