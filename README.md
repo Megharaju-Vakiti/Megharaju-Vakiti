@@ -115,6 +115,10 @@ I'm a results-driven **Data Analyst** with a strong foundation in **Business Int
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megharaju-Vakiti&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Megharaju-Vakiti&theme=dark" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 📬 Let's Connect
