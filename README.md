@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Megharaju_Vakiti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megharaju-vakiti)
 [![GitHub](https://img.shields.io/badge/GitHub-Megharaju--Vakiti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Megharaju-Vakiti)
 [![Email](https://img.shields.io/badge/Email-megharajuvakiti124%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megharajuvakiti124@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Megharaju-Vakiti&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Megharaju-Vakiti)
 
 <br/>
 
